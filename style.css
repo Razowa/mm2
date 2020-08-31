@@ -158,7 +158,7 @@ header.container.col-md-7 button{
 .cover{
     width: 100%;
     height: 55vmin;
-    background:url("../assets/download2.jpg");
+    background:url("./download2.jpg");
 background-position: -24rem-19rem;
 background-size: 150%;
 position: relative;
